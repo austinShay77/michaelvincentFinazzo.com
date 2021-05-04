@@ -3,9 +3,7 @@ import Sunset from '../images/Sunset.jpg'
 import Standing from '../images/Standing.png'
 import { Link } from "react-router-dom"
 
-const Page = styled.body`
-    overflow: hidden;
-`
+const Page = styled.body``
 
 const Grid = styled.div`
     display: grid;
