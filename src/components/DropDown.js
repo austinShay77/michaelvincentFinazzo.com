@@ -37,9 +37,7 @@ const ClosedIcon = styled(FaTimes)`
     }
 `
 
-const DropDownWrapper = styled.div`
-
-`
+const DropDownWrapper = styled.div``
 
 const DropDownMenu = styled.div`
     display: grid;

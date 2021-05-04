@@ -2,7 +2,7 @@ import ImageOne from '../images/SelfieFish.JPG'
 import ImageTwo from '../images/Standing.png'
 import ImageThree from '../images/Sunset.jpg'
 import ImageFour from '../images/BLM.JPG'
-import ImageFive from '../images/SexyAngle.JPG'
+import ImageFive from '../images/TopDownView.JPG'
 
 export const SliderData = [
     {

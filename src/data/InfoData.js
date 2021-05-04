@@ -1,9 +1,9 @@
-
 import ImageTwo from '../images/Standing.png'
+import ImageTwo from '../images/BLM.JPG'
 
 export const InfoData = {
     heading: 'Take a look at my work',
-    paragraphOne: 'Stinky poo poo my name is mike and I lick fat cocks, I like to smoke daink duaghtys',
+    paragraphOne: 'Mike Mike Mike Mike Mike Mike Mike Mike Mike Mike Mike Mike Mike Mike Mike Mike',
     paragraphTwo: 'HEHEHEHEHEHEHEHEHEHEH HAHAHAHAHAHAHAHAHAHA',
     buttonLabel: 'View Work',
     image: ImageOne,
@@ -13,7 +13,7 @@ export const InfoData = {
 
 export const InfoDataTwo = {
     heading: 'Caught Fish',
-    paragraphOne: 'Stinky poo poo my name is mike and I lick fat cocks, I like to smoke daink duaghtys',
+    paragraphOne: 'Mike Mike Mike Mike Mike Mike Mike Mike Mike Mike Mike Mike Mike Mike Mike Mike',
     paragraphTwo: 'HEHEHEHEHEHEHEHEHEHEH HAHAHAHAHAHAHAHAHAHA',
     buttonLabel: 'View Catchs',
     image: ImageTwo,

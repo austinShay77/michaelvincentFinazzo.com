@@ -10,7 +10,7 @@ const Grid = styled.div`
     grid-template-columns: repeat(11, 1fr);
     grid-template-rows: repeat(9, 5vw);
     grid-gap: 3px;
-    
+
     user-select: none;
     
 `
